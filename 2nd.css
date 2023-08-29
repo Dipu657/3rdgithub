@@ -1,0 +1,22 @@
+
+.dip{
+    display: flex;
+
+}
+.item {
+    border: 2px solid black;
+    width: 200px;
+   text-align: center;
+   padding: 10px;
+   border-radius: 5px;
+   /* text-transform: capitalize;
+   text-decoration: none;
+   background-color: aqua;
+   gap: auto; */
+
+
+}
+
+main > h2{
+    text-align: center;
+}
